@@ -14,9 +14,14 @@ cd simple-next-auth-functionality
 ```
 
 ```sh
-npm install
+pnpm install
 ```
 
 ```sh
-npm dev
+pnpm dev
+```
+
+### **To run test**
+```sh
+pnpm test
 ```
